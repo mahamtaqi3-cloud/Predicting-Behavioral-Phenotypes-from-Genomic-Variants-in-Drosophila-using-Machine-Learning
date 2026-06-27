@@ -9,7 +9,7 @@ The pipeline follows a four-stage architecture:
 1. **Genomic Data Handling:** Memory-optimized parsing of large-scale VCF files.
 2. **Machine Learning Modeling:** Utilization of `RandomForestRegressor` to quantify the predictive contribution of genomic variants.
 3. **Feature Importance Analysis:** Systematic extraction and ranking of top-tier predictive variants.
-4. **Biological Annotation:** Mapping predictive coordinates to functional genes using FlyBase JBrowse and the Coordinate Converter tool.
+4. **Biological Annotation:** Mapping predictive coordinates to functional genes using FlyBase, JBrowse, and the Coordinate Converter tool.
 
 ## Key Findings
 
