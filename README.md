@@ -1,4 +1,4 @@
-## Project Overview
+## Predicting Behavioral Phenotypes from Genomic Variants in Drosophila using Machine Learning
 
 The genetic architecture underlying *Drosophila* behavior is complex. This project utilizes a memory-efficient pipeline to process VCF data and applies Random Forest regression to rank variant importance. By integrating machine learning with functional genomics, we identify and annotate key genomic loci that drive phenotypic variance.
 
